@@ -16,3 +16,6 @@ https://github.com/zeeshan121311/firstrepo
 
 # Umer Farooq
 https://github.com/S-Z-KING/first-repo.git
+
+# Nimra khan
+https://github.com/nimrakhan00/first-repository-
