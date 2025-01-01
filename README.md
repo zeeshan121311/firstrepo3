@@ -22,3 +22,7 @@ https://github.com/nimrakhan00/first-repository-
 
 # Rehman
 https://github.com/Rehman1213/first-repo
+
+
+# Abdullah Iqbal repository Link 
+https://github.com/Abdullah-Iqbal6/firstrep
