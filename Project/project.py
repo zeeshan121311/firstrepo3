@@ -12,3 +12,6 @@ class Admin(School):
 
 class Classrooms(School):
     pass
+
+class Event(School):
+    pass
