@@ -1,6 +1,9 @@
 # firstrepo
 Artificial Intelligence batch 2 repositories
 
+# hinu's repo file
+https://github.com/asadali0999/firstrepo
+
 # Tahira 
 https://github.com/asadali0999/firstrepo
 
