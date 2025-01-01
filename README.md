@@ -1,11 +1,11 @@
 # firstrepo
 Artificial Intelligence batch 2 repositories
 https://github.com/S-Z-KING/first-repo.git
+This is my first comment
 
-
-
-
-
-# noor khan Link
-
+# Tahira 
 https://github.com/asadali0999/firstrepo
+
+# noor khan link
+https://github.com/noorkhanswati21/pythonproject/
+
