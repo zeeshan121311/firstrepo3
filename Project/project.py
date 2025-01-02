@@ -17,15 +17,13 @@ class Teacher(School):
         self.teacher_salary = teacher_salary
 
     def getteacher(self):
-        return f"""
-    Name: {self.teacher_name} 
-    Father Name: {self.teacher_f_name}
-    Phone Number: {self.teacher_phone_number}
-    Fees: {self.teacher_fees} 
-    """      
+        return f" Name: {self.teacher_name}  Father Name: {self.teacher_f_name} Phone Number: {self.teacher_phone_number}"   
 
 class Admin(School):
     pass
 
 class Classrooms(School):
     pass
+
+
+
