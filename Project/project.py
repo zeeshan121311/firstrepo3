@@ -15,3 +15,9 @@ class Classrooms(School):
     
 class Event(School):
     pass
+
+class Exams(School):
+    pass
+  
+class Stock(School):
+    pass
