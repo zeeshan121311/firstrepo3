@@ -24,6 +24,12 @@ class Admin(School):
 
 class Classrooms(School):
     pass
+    
+class Event(School):
+    pass
 
-
-
+class Exams(School):
+    pass
+  
+class Stock(School):
+    pass
